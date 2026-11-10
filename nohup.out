@@ -1,0 +1,20 @@
+Traceback (most recent call last):
+  File "/workspaces/QR/qr5.py", line 8, in <module>
+    from telethon import TelegramClient, events
+ModuleNotFoundError: No module named 'telethon'
+INFO:telethon.network.mtprotosender:Connecting to 91.108.56.149:443/TcpFull...
+INFO:telethon.network.mtprotosender:Connection to 91.108.56.149:443/TcpFull complete!
+INFO:telethon.client.uploads:Uploading file of 251168 bytes in 2 chunks of 131072
+INFO:telethon.client.uploads:Uploading file of 251168 bytes in 2 chunks of 131072
+INFO:telethon.client.updates:Got difference for channel 2246706923 updates
+INFO:telethon.client.updates:Got difference for channel 2246706923 updates
+INFO:telethon.client.updates:Got difference for channel 2246706923 updates
+INFO:telethon.client.updates:Got difference for channel 2246706923 updates
+INFO:telethon.client.updates:Got difference for channel 4269609163 updates
+INFO:telethon.client.updates:Got difference for channel 2246706923 updates
+INFO:telethon.client.uploads:Uploading file of 251168 bytes in 2 chunks of 131072
+INFO:telethon.client.uploads:Uploading file of 251168 bytes in 2 chunks of 131072
+INFO:telethon.client.updates:Got difference for channel 2246706923 updates
+INFO:telethon.client.updates:Got difference for channel 4269609163 updates
+INFO:telethon.client.updates:Got difference for channel 4269609163 updates
+INFO:telethon.client.updates:Got difference for channel 2246706923 updates
